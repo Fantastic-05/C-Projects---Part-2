@@ -1,9 +1,0 @@
-C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\C# Projects - Part 2\CarInsurance\CarInsurance\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\C# Projects - Part 2\CarInsurance\CarInsurance\obj\Debug\net8.0\CarInsurance.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\C# Projects - Part 2\CarInsurance\CarInsurance\obj\Debug\net8.0\CarInsurance.AssemblyInfoInputs.cache
-C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\C# Projects - Part 2\CarInsurance\CarInsurance\obj\Debug\net8.0\CarInsurance.AssemblyInfo.cs
-C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\C# Projects - Part 2\CarInsurance\CarInsurance\obj\Debug\net8.0\CarInsurance.csproj.CoreCompileInputs.cache
-C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\C# Projects - Part 2\CarInsurance\CarInsurance\obj\Debug\net8.0\CarInsurance.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\C# Projects - Part 2\CarInsurance\CarInsurance\obj\Debug\net8.0\CarInsurance.RazorAssemblyInfo.cache
-C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\C# Projects - Part 2\CarInsurance\CarInsurance\obj\Debug\net8.0\CarInsurance.RazorAssemblyInfo.cs
-C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\C# Projects - Part 2\CarInsurance\CarInsurance\obj\Debug\net8.0\CarInsurance.sourcelink.json
