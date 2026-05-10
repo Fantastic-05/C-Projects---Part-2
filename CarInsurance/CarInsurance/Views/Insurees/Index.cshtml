@@ -1,0 +1,31 @@
+﻿@model IEnumerable<CarInsurance.Models.Insuree>
+
+<h1>Insurees</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Car Make</th>
+            <th>Car Model</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.EmailAddress</td>
+                <td>@item.CarMake</td>
+                <td>@item.CarModel</td>
+            </tr>
+        }
+    </tbody>
+</table>

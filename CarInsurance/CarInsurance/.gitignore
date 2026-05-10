@@ -1,0 +1,31 @@
+﻿## Ignore Visual Studio temporary files
+.vs/
+bin/
+obj/
+
+## Ignore user-specific files
+*.suo
+*.user
+
+## Ignore build results
+Debug/
+Release/
+
+## Ignore Rider/ReSharper files
+_ReSharper*/
+*.DotSettings.user
+
+## Ignore databse/log files
+*.log
+*.mdf
+*.ldf
+
+## Ignore Publish output
+publish/
+
+## Ignore node modules (if any)
+node_modules/
+
+## Ignore OS files
+.DS_Store
+Thumbs.db

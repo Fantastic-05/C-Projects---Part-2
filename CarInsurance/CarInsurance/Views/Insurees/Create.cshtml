@@ -1,0 +1,63 @@
+﻿@model CarInsurance.Models.Insuree
+
+<h1>Create Insuree</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label>First Name</label>
+        <input asp-for="FirstName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Last Name</label>
+        <input asp-for="LastName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="EmailAddress" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Date Of Birth</label>
+        <input asp-for="DateOfBirth" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Car Year</label>
+        <input asp-for="CarYear" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Car Make</label>
+        <input asp-for="CarMake" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Car Model</label>
+        <input asp-for="CarModel" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>DUI</label>
+        <input asp-for="DUI" class="form-check-input" />
+    </div>
+
+    <div class="form-group">
+        <label>Speeding Tickets</label>
+        <input asp-for="SpeedingTickets" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Coverage Type</label>
+        <input asp-for="CoverageType" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Quote</label>
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
